@@ -1,5 +1,9 @@
 [
 null,
 {"id":1,"battlerName":"Orpheus bat","characterIndex":0,"characterName":"Orpheus walk","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Orpheus","traits":[],"initialLevel":1,"maxLevel":99,"name":"Orpheus","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"Artemis bat","characterIndex":0,"characterName":"Artemis walk","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Artemis","traits":[],"initialLevel":1,"maxLevel":99,"name":"Artemis","nickname":"","note":"","profile":""}
+{"id":2,"battlerName":"Eurydike_bat","characterIndex":0,"characterName":"Eurydike walk","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Eurydike","traits":[],"initialLevel":1,"maxLevel":99,"name":"Eurydike","nickname":"Eury","note":"","profile":""},
+{"id":3,"battlerName":"Artemis bat","characterIndex":0,"characterName":"Artemis walk","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Artemis","traits":[],"initialLevel":1,"maxLevel":99,"name":"Artemis","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
 ]
